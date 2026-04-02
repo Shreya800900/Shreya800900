@@ -13,7 +13,8 @@
 ---
 
 ### 💻 Tech Stack:
-- Languages: Python, Java, C++
+- Languages: Python, C++
+- Python libraries: Numpy,Pandas,Seaborn,Matplotlib,Scikit-learn
 - Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code
 
