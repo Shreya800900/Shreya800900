@@ -17,22 +17,6 @@
 - Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shreya800900&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 LeetCode Stats:
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Shreya_sharma_800?theme=dark&font=baloo" />
-</p>
-
----
 
 ### 🚀 Current Focus:
 - Building AI-based projects 🤖  
